@@ -28,6 +28,6 @@ sum += password[i - 1];
 }
 diff = sum - (2772 - 122);
 password[i] = diff;
-printf("%s", password);
+printf("Tada! Congrats");
 return (0);
 }
