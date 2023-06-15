@@ -12,6 +12,7 @@ void print_magic(unsigned char *e_ident);
 void print_class(unsigned char *e_ident);
 void print_data(unsigned char *e_ident);
 void print_version(unsigned char *e_ident);
+void close_elf(int elf);
 
 /**
 * check_elf - Checks if a file is an ELF file.
