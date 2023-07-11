@@ -27,11 +27,11 @@
 ## [0x1A. Hash tables](https://github.com/Josh-techie/alx-low_level_programming/tree/master/0x1A-hash_tables)
 ## [0x1C. Makefiles](link-to-0x1C)
 ## [0x1E. Search algorithms](link-to-0x1E)
-
+---
 Thank you to [ALX](https://www.alxafrica.com/software-engineering/) for providing an excellent online software engineering course!
-
 ---
 
 **Author:** Youssef Abouyahia
+---
 **GitHub Profile:** [Josh-techie](https://github.com/Josh-techie)
 
