@@ -34,4 +34,5 @@ Thank you to [ALX](https://www.alxafrica.com/software-engineering/) for providin
 **Author:** Youssef Abouyahia
 ---
 **GitHub Profile:** [Josh-techie](https://github.com/Josh-techie)
+---
 
