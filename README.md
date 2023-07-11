@@ -30,7 +30,8 @@
 ---
 Thank you to [ALX](https://www.alxafrica.com/software-engineering/) for providing an excellent online software engineering course!
 ---
-
+![image](https://github.com/Josh-techie/alx-low_level_programming/assets/95583855/5858485d-2e8b-44b1-b099-226e8083431c)
+---
 **Author:** Youssef Abouyahia
 ---
 **GitHub Profile:** [Josh-techie](https://github.com/Josh-techie)
