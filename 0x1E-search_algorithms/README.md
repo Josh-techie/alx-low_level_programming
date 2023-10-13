@@ -1,5 +1,4 @@
-
-verview
+## Overview
 
 - The project, titled **"0x1E. C - Search Algorithms,"** is a part of the ALX Africa Intranet, focusing on C programming and search algorithms.
 - It has a weight of 1 and runs from *Oct 9, 2023, 4:00 AM,* to *Oct 15, 2023, 4:00 AM.*
