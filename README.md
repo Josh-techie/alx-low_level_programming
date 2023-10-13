@@ -25,8 +25,8 @@
 ## [0x17. Doubly linked lists](https://github.com/Josh-techie/alx-low_level_programming/tree/master/0x17-doubly_linked_lists)
 ## [0x18. Dynamic libraries](https://github.com/Josh-techie/alx-low_level_programming/tree/master/0x18-dynamic_libraries)
 ## [0x1A. Hash tables](https://github.com/Josh-techie/alx-low_level_programming/tree/master/0x1A-hash_tables)
-## [0x1C. Makefiles](link-to-0x1C)
-## [0x1E. Search algorithms](link-to-0x1E)
+## [0x1C. Makefiles](https://github.com/Josh-techie/alx-low_level_programming/tree/master/0x1C-makefiles)
+## [0x1E. Search algorithms](https://github.com/Josh-techie/alx-low_level_programming/tree/master/0x1E-search_algorithms)
 ---
 Thank you to [ALX](https://www.alxafrica.com/software-engineering/) for providing an excellent online software engineering course!
 ---
